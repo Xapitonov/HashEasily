@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HashEasily</string>
+    <string name="results">Хеш</string>
+    <string name="select_files">выбрать файлы</string>
+    <string name="selected_files">выбранные файлы</string>
+    <string name="no_selected_files">Нет выбранных файлов!</string>
+    <string name="no_results">Нет результатов!</string>
+    <string name="MD5">MD5</string>
+    <string name="SHA1">SHA-1</string>
+    <string name="SHA256">SHA-256</string>
+    <string name="SHA512">SHA-512</string>
+    <string name="copy_all">копировать всё</string>
+    <string name="clear">очистить</string>
+    <string name="configuration">Конфигурация</string>
+    <string name="theme_configuration">Конфигурация темы</string>
+    <string name="about">О программе</string>
+    <string name="copied">Скопировано.</string>
+    <string name="copied_hash">Скопированный хеш.</string>
+    <string name="license">Лицензия</string>
+    <string name="version">Версия</string>
+    <string name="error">Ошибка:</string>
+    <string name="loading">Загрузка</string>
+    <string name="this_program_is_free_software">
+    Данное ПО является свободным: вы можете распространять и/или изменять
+    его в соответствии с условиями GNU General Public License, опубликованной
+    Фондом свободного ПО, либо версии 3 лицензии, либо
+    (по вашему выбору) любой следующей версии.
+
+    Данное ПО распространяется в надежде, что оно окажется полезным,
+    но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без подразумеваемых гарантий
+    товарной ценности или пригодности для конкретной цели. См.
+    GNU General Public License для получения дополнительных сведений.
+	</string>
+</resources>
